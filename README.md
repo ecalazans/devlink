@@ -2,9 +2,8 @@
 
 Seja bem-vindo ao **DevLink**, um projeto que centraliza todos os meus links importantes, desde redes sociais até portfólios e contatos profissionais — tudo em um layout moderno e responsivo. Ideal para compartilhar em assinaturas, bios e perfis!
 
-🔗 **[Acesse o projeto online](https://devlink.vercel.app)**
+🔗 **[Acesse o projeto online](https://devlink-smoky-eight.vercel.app/)**
 
-![preview](https://user-images.githubusercontent.com/00000000/devlink-preview.png) <!-- Se quiser, podemos gerar um print bonito da página -->
 
 ---
 
